@@ -1,0 +1,9 @@
+.temperature {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+  }
+  
+  .conditions {
+    font-size: 1.5rem;
+    color: #3b3b3b;
+  }
