@@ -11,7 +11,7 @@ function WeatherDisplay({ weather }) {
         Temperature: <span style={{ color: temperatureColor }}>{temperature}</span>
       </p>
       <p className="conditions">
-        Conditions: <span>{conditions}</span>
+        Conditions: {conditions}
       </p>
     </div>
   );
